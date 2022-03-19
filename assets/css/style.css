@@ -23,7 +23,7 @@
 /* MAIN */
 main {
     min-height: 40vh;
-    background-image: url(./assets/img/bg.jpg) ;
+    background-image: url(assets\img\bg.jpg);
     position: inherit;
     background-position: center;
     background-repeat: no-repeat;
